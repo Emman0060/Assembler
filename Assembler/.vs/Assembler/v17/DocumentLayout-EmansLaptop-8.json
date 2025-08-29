@@ -1,0 +1,78 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\OneDrive - The Bishop\u0027s Stortford High School\\School\\Computer Science\\Most Updated Version\\Assembler\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF4BAC58-CC87-4342-9D10-8D1B5876A122}|Assembler\\Assembler.csproj|c:\\users\\administrator\\onedrive - the bishop\u0027s stortford high school\\school\\computer science\\most updated version\\assembler\\assembler\\machine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF4BAC58-CC87-4342-9D10-8D1B5876A122}|Assembler\\Assembler.csproj|solutionrelative:assembler\\machine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF4BAC58-CC87-4342-9D10-8D1B5876A122}|Assembler\\Assembler.csproj|C:\\Users\\Administrator\\OneDrive - The Bishop\u0027s Stortford High School\\School\\Computer Science\\Most Updated Version\\Assembler\\assembler\\machine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BF4BAC58-CC87-4342-9D10-8D1B5876A122}|Assembler\\Assembler.csproj|solutionrelative:assembler\\machine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF4BAC58-CC87-4342-9D10-8D1B5876A122}|Assembler\\Assembler.csproj|C:\\Users\\Administrator\\OneDrive - The Bishop\u0027s Stortford High School\\School\\Computer Science\\Most Updated Version\\Assembler\\assembler\\popup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF4BAC58-CC87-4342-9D10-8D1B5876A122}|Assembler\\Assembler.csproj|solutionrelative:assembler\\popup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PopUp.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive - The Bishop\u0027s Stortford High School\\School\\Computer Science\\Most Updated Version\\Assembler\\Assembler\\PopUp.cs",
+              "RelativeDocumentMoniker": "Assembler\\PopUp.cs",
+              "ToolTip": "C:\\Users\\Administrator\\OneDrive - The Bishop\u0027s Stortford High School\\School\\Computer Science\\Most Updated Version\\Assembler\\Assembler\\PopUp.cs",
+              "RelativeToolTip": "Assembler\\PopUp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T14:18:29.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Machine.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive - The Bishop\u0027s Stortford High School\\School\\Computer Science\\Most Updated Version\\Assembler\\Assembler\\Machine.cs",
+              "RelativeDocumentMoniker": "Assembler\\Machine.cs",
+              "ToolTip": "C:\\Users\\Administrator\\OneDrive - The Bishop\u0027s Stortford High School\\School\\Computer Science\\Most Updated Version\\Assembler\\Assembler\\Machine.cs",
+              "RelativeToolTip": "Assembler\\Machine.cs",
+              "ViewState": "AgIAAFIOAAAAAAAAAAAqwGoOAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T12:13:01.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Machine.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive - The Bishop\u0027s Stortford High School\\School\\Computer Science\\Most Updated Version\\Assembler\\Assembler\\Machine.cs",
+              "RelativeDocumentMoniker": "Assembler\\Machine.cs",
+              "ToolTip": "C:\\Users\\Administrator\\OneDrive - The Bishop\u0027s Stortford High School\\School\\Computer Science\\Most Updated Version\\Assembler\\Assembler\\Machine.cs [Design]",
+              "RelativeToolTip": "Assembler\\Machine.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T10:02:49.347Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 68,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

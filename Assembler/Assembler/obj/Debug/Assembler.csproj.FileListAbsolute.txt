@@ -1,0 +1,145 @@
+C:\Users\agyenae032813\OneDrive - The Bishop's Stortford High School\Computer Science\NEA\Project\Assembler\Assembler\bin\Debug\Assembler.exe.config
+C:\Users\agyenae032813\OneDrive - The Bishop's Stortford High School\Computer Science\NEA\Project\Assembler\Assembler\bin\Debug\Assembler.exe
+C:\Users\agyenae032813\OneDrive - The Bishop's Stortford High School\Computer Science\NEA\Project\Assembler\Assembler\bin\Debug\Assembler.pdb
+C:\Users\agyenae032813\OneDrive - The Bishop's Stortford High School\Computer Science\NEA\Project\Assembler\Assembler\obj\Debug\Assembler.csproj.AssemblyReference.cache
+C:\Users\agyenae032813\OneDrive - The Bishop's Stortford High School\Computer Science\NEA\Project\Assembler\Assembler\obj\Debug\Assembler.Machine.resources
+C:\Users\agyenae032813\OneDrive - The Bishop's Stortford High School\Computer Science\NEA\Project\Assembler\Assembler\obj\Debug\Assembler.Properties.Resources.resources
+C:\Users\agyenae032813\OneDrive - The Bishop's Stortford High School\Computer Science\NEA\Project\Assembler\Assembler\obj\Debug\Assembler.csproj.GenerateResource.cache
+C:\Users\agyenae032813\OneDrive - The Bishop's Stortford High School\Computer Science\NEA\Project\Assembler\Assembler\obj\Debug\Assembler.csproj.CoreCompileInputs.cache
+C:\Users\agyenae032813\OneDrive - The Bishop's Stortford High School\Computer Science\NEA\Project\Assembler\Assembler\obj\Debug\Assembler.exe
+C:\Users\agyenae032813\OneDrive - The Bishop's Stortford High School\Computer Science\NEA\Project\Assembler\Assembler\obj\Debug\Assembler.pdb
+C:\Users\Administrator\OneDrive - The Bishop's Stortford High School\Computer Science\NEA\Project\Assembler\Assembler\bin\Debug\Assembler.exe.config
+C:\Users\Administrator\OneDrive - The Bishop's Stortford High School\Computer Science\NEA\Project\Assembler\Assembler\bin\Debug\Assembler.exe
+C:\Users\Administrator\OneDrive - The Bishop's Stortford High School\Computer Science\NEA\Project\Assembler\Assembler\bin\Debug\Assembler.pdb
+C:\Users\Administrator\OneDrive - The Bishop's Stortford High School\Computer Science\NEA\Project\Assembler\Assembler\obj\Debug\Assembler.csproj.AssemblyReference.cache
+C:\Users\Administrator\OneDrive - The Bishop's Stortford High School\Computer Science\NEA\Project\Assembler\Assembler\obj\Debug\Assembler.Machine.resources
+C:\Users\Administrator\OneDrive - The Bishop's Stortford High School\Computer Science\NEA\Project\Assembler\Assembler\obj\Debug\Assembler.Properties.Resources.resources
+C:\Users\Administrator\OneDrive - The Bishop's Stortford High School\Computer Science\NEA\Project\Assembler\Assembler\obj\Debug\Assembler.csproj.GenerateResource.cache
+C:\Users\Administrator\OneDrive - The Bishop's Stortford High School\Computer Science\NEA\Project\Assembler\Assembler\obj\Debug\Assembler.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\OneDrive - The Bishop's Stortford High School\Computer Science\NEA\Project\Assembler\Assembler\obj\Debug\Assembler.exe
+C:\Users\Administrator\OneDrive - The Bishop's Stortford High School\Computer Science\NEA\Project\Assembler\Assembler\obj\Debug\Assembler.pdb
+C:\Users\User\OneDrive - The Bishop's Stortford High School\Computer Science\NEA\Project\Assembler\Assembler\bin\Debug\Assembler.exe.config
+C:\Users\User\OneDrive - The Bishop's Stortford High School\Computer Science\NEA\Project\Assembler\Assembler\bin\Debug\Assembler.exe
+C:\Users\User\OneDrive - The Bishop's Stortford High School\Computer Science\NEA\Project\Assembler\Assembler\bin\Debug\Assembler.pdb
+C:\Users\User\OneDrive - The Bishop's Stortford High School\Computer Science\NEA\Project\Assembler\Assembler\obj\Debug\Assembler.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive - The Bishop's Stortford High School\Computer Science\NEA\Project\Assembler\Assembler\obj\Debug\Assembler.Machine.resources
+C:\Users\User\OneDrive - The Bishop's Stortford High School\Computer Science\NEA\Project\Assembler\Assembler\obj\Debug\Assembler.Properties.Resources.resources
+C:\Users\User\OneDrive - The Bishop's Stortford High School\Computer Science\NEA\Project\Assembler\Assembler\obj\Debug\Assembler.csproj.GenerateResource.cache
+C:\Users\User\OneDrive - The Bishop's Stortford High School\Computer Science\NEA\Project\Assembler\Assembler\obj\Debug\Assembler.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - The Bishop's Stortford High School\Computer Science\NEA\Project\Assembler\Assembler\obj\Debug\Assembler.exe
+C:\Users\User\OneDrive - The Bishop's Stortford High School\Computer Science\NEA\Project\Assembler\Assembler\obj\Debug\Assembler.pdb
+C:\Users\agyenae032813.TBSHS\OneDrive - The Bishop's Stortford High School\Computer Science\NEA\Project\Assembler\Assembler\bin\Debug\Assembler.exe.config
+C:\Users\agyenae032813.TBSHS\OneDrive - The Bishop's Stortford High School\Computer Science\NEA\Project\Assembler\Assembler\bin\Debug\Assembler.exe
+C:\Users\agyenae032813.TBSHS\OneDrive - The Bishop's Stortford High School\Computer Science\NEA\Project\Assembler\Assembler\bin\Debug\Assembler.pdb
+C:\Users\agyenae032813.TBSHS\OneDrive - The Bishop's Stortford High School\Computer Science\NEA\Project\Assembler\Assembler\obj\Debug\Assembler.csproj.AssemblyReference.cache
+C:\Users\agyenae032813.TBSHS\OneDrive - The Bishop's Stortford High School\Computer Science\NEA\Project\Assembler\Assembler\obj\Debug\Assembler.Machine.resources
+C:\Users\agyenae032813.TBSHS\OneDrive - The Bishop's Stortford High School\Computer Science\NEA\Project\Assembler\Assembler\obj\Debug\Assembler.Properties.Resources.resources
+C:\Users\agyenae032813.TBSHS\OneDrive - The Bishop's Stortford High School\Computer Science\NEA\Project\Assembler\Assembler\obj\Debug\Assembler.csproj.GenerateResource.cache
+C:\Users\agyenae032813.TBSHS\OneDrive - The Bishop's Stortford High School\Computer Science\NEA\Project\Assembler\Assembler\obj\Debug\Assembler.csproj.CoreCompileInputs.cache
+C:\Users\agyenae032813.TBSHS\OneDrive - The Bishop's Stortford High School\Computer Science\NEA\Project\Assembler\Assembler\obj\Debug\Assembler.exe
+C:\Users\agyenae032813.TBSHS\OneDrive - The Bishop's Stortford High School\Computer Science\NEA\Project\Assembler\Assembler\obj\Debug\Assembler.pdb
+C:\Users\Administrator\OneDrive - The Bishop's Stortford High School\Computer Science\Project\Assembler\Assembler\bin\Debug\Assembler.exe.config
+C:\Users\Administrator\OneDrive - The Bishop's Stortford High School\Computer Science\Project\Assembler\Assembler\bin\Debug\Assembler.exe
+C:\Users\Administrator\OneDrive - The Bishop's Stortford High School\Computer Science\Project\Assembler\Assembler\bin\Debug\Assembler.pdb
+C:\Users\Administrator\OneDrive - The Bishop's Stortford High School\Computer Science\Project\Assembler\Assembler\obj\Debug\Assembler.csproj.AssemblyReference.cache
+C:\Users\Administrator\OneDrive - The Bishop's Stortford High School\Computer Science\Project\Assembler\Assembler\obj\Debug\Assembler.Machine.resources
+C:\Users\Administrator\OneDrive - The Bishop's Stortford High School\Computer Science\Project\Assembler\Assembler\obj\Debug\Assembler.Properties.Resources.resources
+C:\Users\Administrator\OneDrive - The Bishop's Stortford High School\Computer Science\Project\Assembler\Assembler\obj\Debug\Assembler.csproj.GenerateResource.cache
+C:\Users\Administrator\OneDrive - The Bishop's Stortford High School\Computer Science\Project\Assembler\Assembler\obj\Debug\Assembler.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\OneDrive - The Bishop's Stortford High School\Computer Science\Project\Assembler\Assembler\obj\Debug\Assembler.exe
+C:\Users\Administrator\OneDrive - The Bishop's Stortford High School\Computer Science\Project\Assembler\Assembler\obj\Debug\Assembler.pdb
+C:\Users\agyenae032813\OneDrive - The Bishop's Stortford High School\Computer Science\Project\Assembler\Assembler\bin\Debug\Assembler.exe.config
+C:\Users\agyenae032813\OneDrive - The Bishop's Stortford High School\Computer Science\Project\Assembler\Assembler\bin\Debug\Assembler.exe
+C:\Users\agyenae032813\OneDrive - The Bishop's Stortford High School\Computer Science\Project\Assembler\Assembler\bin\Debug\Assembler.pdb
+C:\Users\agyenae032813\OneDrive - The Bishop's Stortford High School\Computer Science\Project\Assembler\Assembler\obj\Debug\Assembler.csproj.AssemblyReference.cache
+C:\Users\agyenae032813\OneDrive - The Bishop's Stortford High School\Computer Science\Project\Assembler\Assembler\obj\Debug\Assembler.Machine.resources
+C:\Users\agyenae032813\OneDrive - The Bishop's Stortford High School\Computer Science\Project\Assembler\Assembler\obj\Debug\Assembler.Properties.Resources.resources
+C:\Users\agyenae032813\OneDrive - The Bishop's Stortford High School\Computer Science\Project\Assembler\Assembler\obj\Debug\Assembler.csproj.GenerateResource.cache
+C:\Users\agyenae032813\OneDrive - The Bishop's Stortford High School\Computer Science\Project\Assembler\Assembler\obj\Debug\Assembler.csproj.CoreCompileInputs.cache
+C:\Users\agyenae032813\OneDrive - The Bishop's Stortford High School\Computer Science\Project\Assembler\Assembler\obj\Debug\Assembler.exe
+C:\Users\agyenae032813\OneDrive - The Bishop's Stortford High School\Computer Science\Project\Assembler\Assembler\obj\Debug\Assembler.pdb
+C:\Users\User\OneDrive - The Bishop's Stortford High School\Computer Science\Project\Assembler\Assembler\bin\Debug\Assembler.exe.config
+C:\Users\User\OneDrive - The Bishop's Stortford High School\Computer Science\Project\Assembler\Assembler\bin\Debug\Assembler.exe
+C:\Users\User\OneDrive - The Bishop's Stortford High School\Computer Science\Project\Assembler\Assembler\bin\Debug\Assembler.pdb
+C:\Users\User\OneDrive - The Bishop's Stortford High School\Computer Science\Project\Assembler\Assembler\obj\Debug\Assembler.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive - The Bishop's Stortford High School\Computer Science\Project\Assembler\Assembler\obj\Debug\Assembler.Machine.resources
+C:\Users\User\OneDrive - The Bishop's Stortford High School\Computer Science\Project\Assembler\Assembler\obj\Debug\Assembler.Properties.Resources.resources
+C:\Users\User\OneDrive - The Bishop's Stortford High School\Computer Science\Project\Assembler\Assembler\obj\Debug\Assembler.csproj.GenerateResource.cache
+C:\Users\User\OneDrive - The Bishop's Stortford High School\Computer Science\Project\Assembler\Assembler\obj\Debug\Assembler.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - The Bishop's Stortford High School\Computer Science\Project\Assembler\Assembler\obj\Debug\Assembler.exe
+C:\Users\User\OneDrive - The Bishop's Stortford High School\Computer Science\Project\Assembler\Assembler\obj\Debug\Assembler.pdb
+C:\Users\User\OneDrive - The Bishop's Stortford High School\Computer Science\Project\Assembler\Assembler\bin\Debug\FastColoredTextBox.dll
+C:\Users\User\OneDrive - The Bishop's Stortford High School\Computer Science\Project\Assembler\Assembler\bin\Debug\FastColoredTextBox.xml
+C:\Users\User\OneDrive - The Bishop's Stortford High School\Computer Science\Project\Assembler\Assembler\obj\Debug\Assembler.csproj.CopyComplete
+C:\Users\Administrator\OneDrive - The Bishop's Stortford High School\Computer Science\Project\Assembler\Assembler\bin\Debug\FastColoredTextBox.xml
+C:\Users\Administrator\OneDrive - The Bishop's Stortford High School\Computer Science\Project\Assembler\Assembler\obj\Debug\Assembler.csproj.Up2Date
+C:\Users\User\OneDrive - The Bishop's Stortford High School\Computer Science\Project\Assembler\Assembler\obj\Debug\Assembler.InstructionSetPopUp.resources
+C:\Users\agyenae032813\OneDrive - The Bishop's Stortford High School\Computer Science\Project\Assembler\Assembler\bin\Debug\FastColoredTextBox.xml
+C:\Users\agyenae032813\OneDrive - The Bishop's Stortford High School\Computer Science\Project\Assembler\Assembler\obj\Debug\Assembler.InstructionSetPopUp.resources
+C:\Users\agyenae032813\OneDrive - The Bishop's Stortford High School\Computer Science\Project\Assembler\Assembler\obj\Debug\Assembler.csproj.Up2Date
+C:\Users\Administrator\OneDrive - The Bishop's Stortford High School\School\Computer Science\Project - Copy\Assembler\Assembler\bin\Debug\Assembler.exe.config
+C:\Users\Administrator\OneDrive - The Bishop's Stortford High School\School\Computer Science\Project - Copy\Assembler\Assembler\bin\Debug\Assembler.exe
+C:\Users\Administrator\OneDrive - The Bishop's Stortford High School\School\Computer Science\Project - Copy\Assembler\Assembler\bin\Debug\Assembler.pdb
+C:\Users\Administrator\OneDrive - The Bishop's Stortford High School\School\Computer Science\Project - Copy\Assembler\Assembler\bin\Debug\FastColoredTextBox.xml
+C:\Users\Administrator\OneDrive - The Bishop's Stortford High School\School\Computer Science\Project - Copy\Assembler\Assembler\obj\Debug\Assembler.csproj.AssemblyReference.cache
+C:\Users\Administrator\OneDrive - The Bishop's Stortford High School\School\Computer Science\Project - Copy\Assembler\Assembler\obj\Debug\Assembler.InstructionSetPopUp.resources
+C:\Users\Administrator\OneDrive - The Bishop's Stortford High School\School\Computer Science\Project - Copy\Assembler\Assembler\obj\Debug\Assembler.Machine.resources
+C:\Users\Administrator\OneDrive - The Bishop's Stortford High School\School\Computer Science\Project - Copy\Assembler\Assembler\obj\Debug\Assembler.Properties.Resources.resources
+C:\Users\Administrator\OneDrive - The Bishop's Stortford High School\School\Computer Science\Project - Copy\Assembler\Assembler\obj\Debug\Assembler.csproj.GenerateResource.cache
+C:\Users\Administrator\OneDrive - The Bishop's Stortford High School\School\Computer Science\Project - Copy\Assembler\Assembler\obj\Debug\Assembler.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\OneDrive - The Bishop's Stortford High School\School\Computer Science\Project - Copy\Assembler\Assembler\obj\Debug\Assembler.csproj.Up2Date
+C:\Users\Administrator\OneDrive - The Bishop's Stortford High School\School\Computer Science\Project - Copy\Assembler\Assembler\obj\Debug\Assembler.exe
+C:\Users\Administrator\OneDrive - The Bishop's Stortford High School\School\Computer Science\Project - Copy\Assembler\Assembler\obj\Debug\Assembler.pdb
+C:\Users\Administrator\OneDrive - The Bishop's Stortford High School\School\Computer Science\Project - Copy\Assembler\Assembler\obj\Debug\Assembler.PopUp.resources
+C:\Users\User\OneDrive - The Bishop's Stortford High School\School\Computer Science\Most Updated Version\Assembler\Assembler\obj\Debug\Assembler.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive - The Bishop's Stortford High School\School\Computer Science\Most Updated Version\Assembler\Assembler\obj\Debug\Assembler.Machine.resources
+C:\Users\User\OneDrive - The Bishop's Stortford High School\School\Computer Science\Most Updated Version\Assembler\Assembler\obj\Debug\Assembler.PopUp.resources
+C:\Users\User\OneDrive - The Bishop's Stortford High School\School\Computer Science\Most Updated Version\Assembler\Assembler\obj\Debug\Assembler.Properties.Resources.resources
+C:\Users\User\OneDrive - The Bishop's Stortford High School\School\Computer Science\Most Updated Version\Assembler\Assembler\obj\Debug\Assembler.csproj.GenerateResource.cache
+C:\Users\User\OneDrive - The Bishop's Stortford High School\School\Computer Science\Most Updated Version\Assembler\Assembler\obj\Debug\Assembler.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - The Bishop's Stortford High School\School\Computer Science\Most Updated Version\Assembler\Assembler\obj\Debug\Assembler.exe
+C:\Users\User\OneDrive - The Bishop's Stortford High School\School\Computer Science\Most Updated Version\Assembler\Assembler\obj\Debug\Assembler.pdb
+C:\Users\User\OneDrive - The Bishop's Stortford High School\School\Computer Science\Most Updated Version\Assembler\Assembler\bin\Debug\Assembler.exe.config
+C:\Users\User\OneDrive - The Bishop's Stortford High School\School\Computer Science\Most Updated Version\Assembler\Assembler\bin\Debug\Assembler.exe
+C:\Users\User\OneDrive - The Bishop's Stortford High School\School\Computer Science\Most Updated Version\Assembler\Assembler\bin\Debug\Assembler.pdb
+C:\Users\User\OneDrive - The Bishop's Stortford High School\School\Computer Science\Most Updated Version\Assembler\Assembler\bin\Debug\FastColoredTextBox.xml
+C:\Users\User\OneDrive - The Bishop's Stortford High School\School\Computer Science\Most Updated Version\Assembler\Assembler\obj\Debug\Assembler.csproj.CopyComplete
+C:\Users\Administrator\OneDrive - The Bishop's Stortford High School\School\Computer Science\Most Updated Version\Assembler\Assembler\bin\Debug\Assembler.exe.config
+C:\Users\Administrator\OneDrive - The Bishop's Stortford High School\School\Computer Science\Most Updated Version\Assembler\Assembler\bin\Debug\Assembler.exe
+C:\Users\Administrator\OneDrive - The Bishop's Stortford High School\School\Computer Science\Most Updated Version\Assembler\Assembler\bin\Debug\Assembler.pdb
+C:\Users\Administrator\OneDrive - The Bishop's Stortford High School\School\Computer Science\Most Updated Version\Assembler\Assembler\bin\Debug\FastColoredTextBox.xml
+C:\Users\Administrator\OneDrive - The Bishop's Stortford High School\School\Computer Science\Most Updated Version\Assembler\Assembler\obj\Debug\Assembler.csproj.AssemblyReference.cache
+C:\Users\Administrator\OneDrive - The Bishop's Stortford High School\School\Computer Science\Most Updated Version\Assembler\Assembler\obj\Debug\Assembler.Machine.resources
+C:\Users\Administrator\OneDrive - The Bishop's Stortford High School\School\Computer Science\Most Updated Version\Assembler\Assembler\obj\Debug\Assembler.PopUp.resources
+C:\Users\Administrator\OneDrive - The Bishop's Stortford High School\School\Computer Science\Most Updated Version\Assembler\Assembler\obj\Debug\Assembler.Properties.Resources.resources
+C:\Users\Administrator\OneDrive - The Bishop's Stortford High School\School\Computer Science\Most Updated Version\Assembler\Assembler\obj\Debug\Assembler.csproj.GenerateResource.cache
+C:\Users\Administrator\OneDrive - The Bishop's Stortford High School\School\Computer Science\Most Updated Version\Assembler\Assembler\obj\Debug\Assembler.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\OneDrive - The Bishop's Stortford High School\School\Computer Science\Most Updated Version\Assembler\Assembler\obj\Debug\Assembler.csproj.Up2Date
+C:\Users\Administrator\OneDrive - The Bishop's Stortford High School\School\Computer Science\Most Updated Version\Assembler\Assembler\obj\Debug\Assembler.exe
+C:\Users\Administrator\OneDrive - The Bishop's Stortford High School\School\Computer Science\Most Updated Version\Assembler\Assembler\obj\Debug\Assembler.pdb
+C:\Users\agyenae032813\OneDrive - The Bishop's Stortford High School\School\Computer Science\Most Updated Version\Assembler\Assembler\bin\Debug\Assembler.exe.config
+C:\Users\agyenae032813\OneDrive - The Bishop's Stortford High School\School\Computer Science\Most Updated Version\Assembler\Assembler\bin\Debug\Assembler.exe
+C:\Users\agyenae032813\OneDrive - The Bishop's Stortford High School\School\Computer Science\Most Updated Version\Assembler\Assembler\bin\Debug\Assembler.pdb
+C:\Users\agyenae032813\OneDrive - The Bishop's Stortford High School\School\Computer Science\Most Updated Version\Assembler\Assembler\bin\Debug\FastColoredTextBox.xml
+C:\Users\agyenae032813\OneDrive - The Bishop's Stortford High School\School\Computer Science\Most Updated Version\Assembler\Assembler\obj\Debug\Assembler.csproj.AssemblyReference.cache
+C:\Users\agyenae032813\OneDrive - The Bishop's Stortford High School\School\Computer Science\Most Updated Version\Assembler\Assembler\obj\Debug\Assembler.Machine.resources
+C:\Users\agyenae032813\OneDrive - The Bishop's Stortford High School\School\Computer Science\Most Updated Version\Assembler\Assembler\obj\Debug\Assembler.PopUp.resources
+C:\Users\agyenae032813\OneDrive - The Bishop's Stortford High School\School\Computer Science\Most Updated Version\Assembler\Assembler\obj\Debug\Assembler.Properties.Resources.resources
+C:\Users\agyenae032813\OneDrive - The Bishop's Stortford High School\School\Computer Science\Most Updated Version\Assembler\Assembler\obj\Debug\Assembler.csproj.GenerateResource.cache
+C:\Users\agyenae032813\OneDrive - The Bishop's Stortford High School\School\Computer Science\Most Updated Version\Assembler\Assembler\obj\Debug\Assembler.csproj.CoreCompileInputs.cache
+C:\Users\agyenae032813\OneDrive - The Bishop's Stortford High School\School\Computer Science\Most Updated Version\Assembler\Assembler\obj\Debug\Assembler.csproj.Up2Date
+C:\Users\agyenae032813\OneDrive - The Bishop's Stortford High School\School\Computer Science\Most Updated Version\Assembler\Assembler\obj\Debug\Assembler.exe
+C:\Users\agyenae032813\OneDrive - The Bishop's Stortford High School\School\Computer Science\Most Updated Version\Assembler\Assembler\obj\Debug\Assembler.pdb
+C:\Users\agyenae032813.TBSHS\OneDrive - The Bishop's Stortford High School\School\Computer Science\Most Updated Version\Assembler\Assembler\bin\Debug\Assembler.exe.config
+C:\Users\agyenae032813.TBSHS\OneDrive - The Bishop's Stortford High School\School\Computer Science\Most Updated Version\Assembler\Assembler\bin\Debug\Assembler.exe
+C:\Users\agyenae032813.TBSHS\OneDrive - The Bishop's Stortford High School\School\Computer Science\Most Updated Version\Assembler\Assembler\bin\Debug\Assembler.pdb
+C:\Users\agyenae032813.TBSHS\OneDrive - The Bishop's Stortford High School\School\Computer Science\Most Updated Version\Assembler\Assembler\bin\Debug\FastColoredTextBox.xml
+C:\Users\agyenae032813.TBSHS\OneDrive - The Bishop's Stortford High School\School\Computer Science\Most Updated Version\Assembler\Assembler\obj\Debug\Assembler.csproj.AssemblyReference.cache
+C:\Users\agyenae032813.TBSHS\OneDrive - The Bishop's Stortford High School\School\Computer Science\Most Updated Version\Assembler\Assembler\obj\Debug\Assembler.Machine.resources
+C:\Users\agyenae032813.TBSHS\OneDrive - The Bishop's Stortford High School\School\Computer Science\Most Updated Version\Assembler\Assembler\obj\Debug\Assembler.PopUp.resources
+C:\Users\agyenae032813.TBSHS\OneDrive - The Bishop's Stortford High School\School\Computer Science\Most Updated Version\Assembler\Assembler\obj\Debug\Assembler.Properties.Resources.resources
+C:\Users\agyenae032813.TBSHS\OneDrive - The Bishop's Stortford High School\School\Computer Science\Most Updated Version\Assembler\Assembler\obj\Debug\Assembler.csproj.GenerateResource.cache
+C:\Users\agyenae032813.TBSHS\OneDrive - The Bishop's Stortford High School\School\Computer Science\Most Updated Version\Assembler\Assembler\obj\Debug\Assembler.csproj.CoreCompileInputs.cache
+C:\Users\agyenae032813.TBSHS\OneDrive - The Bishop's Stortford High School\School\Computer Science\Most Updated Version\Assembler\Assembler\obj\Debug\Assembler.csproj.Up2Date
+C:\Users\agyenae032813.TBSHS\OneDrive - The Bishop's Stortford High School\School\Computer Science\Most Updated Version\Assembler\Assembler\obj\Debug\Assembler.exe
+C:\Users\agyenae032813.TBSHS\OneDrive - The Bishop's Stortford High School\School\Computer Science\Most Updated Version\Assembler\Assembler\obj\Debug\Assembler.pdb
